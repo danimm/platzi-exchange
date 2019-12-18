@@ -6,10 +6,10 @@
 </template>
 
 <script>
-import PxHeader from "@/components/PxHeader";
+import PxHeader from '@/components/PxHeader'
 
 export default {
-  name: "app",
+  name: 'app',
   components: { PxHeader }
-};
+}
 </script>
